@@ -1,0 +1,8 @@
+#nprogress .bar {
+  background: pink !important;
+  height: 6px !important;
+}
+
+.ql-editor {
+  min-height: 300px;
+}
